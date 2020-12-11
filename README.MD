@@ -2,7 +2,6 @@
 
 This package is bigsur wallpaper for dynamic background in linux.
 
-![BigSur](https://raw.githubusercontent.com/Ja7adR/BigSur-dynamic/main/preview/bigsur.gif)
 
 ## How to use ?
 
