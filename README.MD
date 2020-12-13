@@ -1,4 +1,4 @@
-# Mac BigSur 4k Dynamic Wallpaper
+# Mac BigSur 1080 Dynamic Wallpaper
 
 This package is bigsur wallpaper for dynamic background in linux.
 
