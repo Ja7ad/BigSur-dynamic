@@ -1,8 +1,7 @@
-# Mac BigSur Dynamic Wallpaper
+# Mac BigSur 6k Dynamic Wallpaper
 
 This package is bigsur wallpaper for dynamic background in linux.
 
-Resolution Package : 6k Resolution , 4k Resolution , 1080 Resolution
 
 ![BigSur](https://raw.githubusercontent.com/Ja7adR/BigSur-dynamic/main/preview/bigsur-preview.gif)
 
