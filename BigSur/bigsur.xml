@@ -18,7 +18,7 @@
 	<transition type="overlay">
 		<duration>4046.0</duration>
 		<from>/home/YourUsername/Pictures/BigSur/0.jpg</from>
-		<to>/home/javad/Pictures/BigSur/1.jpg</to>
+		<to>/home/YourUsername/Pictures/BigSur/1.jpg</to>
 	</transition>
 
 	<static>
